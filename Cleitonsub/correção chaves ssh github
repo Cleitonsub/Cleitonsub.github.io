@@ -1,0 +1,3 @@
+Sávio Silva - Turma 16 - B:livros:  há 17 horas
+Que estranho. Eu realmente não sei como te ajudar. Se seu ssh-agent está com sua chave privada id_rsa e seu GitHUB está com sua chave ssh publica id_rsa.pub  deveria funcionar.
+Eu recomendaria você tentar ssh-add -D e tentar adicionar novamente a chave com ssh-add ~/.ssh/id_rsa e se não funcionar, eu realmente não tenho ideia.
