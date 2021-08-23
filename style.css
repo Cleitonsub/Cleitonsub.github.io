@@ -1,0 +1,60 @@
+.meu-nome {
+    font-family: helvetica, sans-serif;
+    text-align: center;
+  }
+
+  .descricao {
+    font-family: helvetica, sans-serif;
+    position: absolute;
+    top: 32%;
+    left: 275px;
+  }
+
+  body {
+    background: #E5E5E5;
+    margin: 3% 5%;
+  }
+
+  .skill-1 {
+    font-size: 15px;
+  }
+
+  .skill-2 {
+    font-size: 20px;
+  }
+
+  .skill-3 {
+    font-size: 25px;
+  }
+
+  .skill-4 {
+    font-size: 20px;
+  }
+
+  .skill-5 {
+    font-size: 15px;
+  }
+
+  .skill-6 {
+    font-size: 20px;
+  }
+
+  #minha-foto {
+    float: left;
+    height: 235px;
+    padding: 15px;
+    background-color: #14213D;
+  }
+
+  .image-container {
+    height: 265px; 
+    position: relative;
+  }
+
+  .caixa-descricao {
+    
+  }
+
+  ul li:nth-child(odd) {
+    background-color: #14213D;
+  }
